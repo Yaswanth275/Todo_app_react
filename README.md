@@ -6,7 +6,7 @@
 
 1. **Download or clone the project**
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Yaswanth275/Todo_app_react.git
    cd todo-app
    ```
 
